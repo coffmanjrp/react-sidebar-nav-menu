@@ -1,8 +1,10 @@
 const Products = () => {
   return (
-    <div>
-      <h1>Products</h1>
-    </div>
+    <>
+      <div className="container">
+        <h1>Products</h1>
+      </div>
+    </>
   );
 };
 
