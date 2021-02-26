@@ -36,6 +36,8 @@ a {
 
 .menu-bars {
   margin-left: 2rem;
+  width: 32px;
+  height: 32px;
   font-size: 2rem;
 }
 
@@ -80,7 +82,7 @@ a {
   }
 }
 
-.nav-toggle {
+.navbar-toggle {
   display: flex;
   align-items: center;
   width: 100%;
